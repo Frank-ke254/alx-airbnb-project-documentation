@@ -1,1 +1,1 @@
-![Features_and_Functionalities] (images/Feature_&_Functionalities)
+![Features_and_Functionalities] (Feature_&_Functionalities)
