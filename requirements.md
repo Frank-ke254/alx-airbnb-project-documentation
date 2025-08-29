@@ -45,9 +45,9 @@
 
 # Input and output specifications:
   1. User registration:
-      input: user_id, first_name, last_name, phone_number and email.
-      process: validate inputs.
-      output: user is authenticated and logged in to the system.
+<p>input: user_id, first_name, last_name, phone_number and email.</p>
+<p>process: validate inputs.</p>
+<p>output: user is authenticated and logged in to the system.</p>
   2. Property management:
       input: property_id, host_id, name, description, location and pricepernight.
       process: validate inputs.
