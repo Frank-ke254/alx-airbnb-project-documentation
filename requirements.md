@@ -45,25 +45,25 @@
 
 # Input and output specifications:
   1. User registration:
-<p>input: user_id, first_name, last_name, phone_number and email.</p>
-<p>process: validate inputs.</p>
-<p>output: user is authenticated and logged in to the system.</p>
+    <p>input: user_id, first_name, last_name, phone_number and email.</p>
+    <p>process: validate inputs.</p>
+    <p>output: user is authenticated and logged in to the system.</p>
   2. Property management:
-      input: property_id, host_id, name, description, location and pricepernight.
-      process: validate inputs.
-      output: property added to the properties section.
+    <p>input: property_id, host_id, name, description, location and pricepernight.</p>
+    <p>process: validate inputs.</p>
+    <p>output: property added to the properties section.</p>
   3. Booking:
-      input: booking_id, user_id, property_id, name and amount.
-      process: validate inputs.
-      output: booking confirmation.    
+    <p>input: booking_id, user_id, property_id, name and amount.</p>
+    <p>process: validate inputs.</p>
+    <p>output: booking confirmation.</p>    
   4. Payment:
-      input: customer_id, property_id, payment_method and amount.
-      process: validate inputs.
-      output: property booking payment confirmation.
+    <p>input: customer_id, property_id, payment_method and amount.</p>
+    <p>process: validate inputs.</p>
+    <p>output: property booking payment confirmation.</p>
   5. Reviews:
-      input: sender_id, recipient_id, message_body and review_id.
-      process: validate inputs.
-      output: Reviews that are visible to others.
+    <p>input: sender_id, recipient_id, message_body and review_id.</p>
+    <p>process: validate inputs.</p>
+    <p>output: Reviews that are visible to others.</p>
      
 # Validation rules:
   Profile photos must be a passport picture of the user.
